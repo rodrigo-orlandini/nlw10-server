@@ -5,10 +5,12 @@ The objective of this project is to provide an easy way to manage sports bets be
 
 My participation in this project aimed to practice, improvement and learn about new concepts related to **NodeJS** and **Fastify**.
 
+---
+
 ### Tecnologias usadas: 
-* **_NodeJS_**
-* **_Typescript_**
-* **_Fastify_**
+[![NodeJS](.markdown/node.png "NodeJS")](https://nodejs.org/en)
+[![Typescript](.markdown/typescript.png "Typescript")](https://www.typescriptlang.org/)
+[![Fastify](.markdown/fastify.png "Fastify")](https://fastify.dev/)
 
 In addition to these technologies mentioned above, some other important libraries and tricks were used, such as **_Prisma_**, a helpful ORM and **Zod**, a package for validations.
 
