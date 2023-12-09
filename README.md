@@ -7,7 +7,7 @@ My participation in this project aimed to practice, improvement and learn about 
 
 ---
 
-### Tecnologias usadas: 
+### Technologies: 
 [![NodeJS](.markdown/node.png "NodeJS")](https://nodejs.org/en)
 [![Typescript](.markdown/typescript.png "Typescript")](https://www.typescriptlang.org/)
 [![Fastify](.markdown/fastify.png "Fastify")](https://fastify.dev/)
